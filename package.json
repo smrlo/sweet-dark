@@ -7,8 +7,9 @@
   "author": "st3f4no (https://github.com/st3f4no)",
   "license": "MIT",
   "theme": {
-    "file": "main.less",
+    "file": "theme.less",
     "dark": true,
   },
-  "keywords": ["theme", "dark", "html", "css", "js"]
+  "keywords": ["theme", "dark", "html", "css", "js"],
+  "screenshot": "screenshots/html.png"
 }
