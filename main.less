@@ -1,0 +1,148 @@
+/*!
+ * Sweet Dark Theme for Brackest
+ * Copyright (c) 2017 https://github.com/st3f4no
+ * Licensed under the MIT license
+ */
+
+@background: #222233;
+@white: #ffffff;
+@gray: #556677;
+@green: #68D9B1;
+@orange: #FFA8A8;
+@violet: #AEA8D3;
+@yellow: #FCFFA8;
+
+.cm-bracket,
+.cm-keyword,
+.cm-tag {
+    color: @green
+}
+.cm-atom,
+.cm-link,
+.cm-number {
+    color: @white
+}
+.cm-operator,
+.cm-variable,
+.cm-variable-3 {
+    color: @orange
+}
+.cm-attribute,
+.cm-builtin,
+.cm-meta,
+.cm-qualifier {
+    color: @orange
+}
+.cm-string,
+.cm-string-2 {
+    color: @violet
+}
+.cm-property {
+    color: @orange
+}
+.cm-variable-2 {
+    color: @green
+}
+.cm-comment {
+    color: @gray
+}
+.cm-def {
+    color: @yellow
+}
+.cm-error {
+    background: red;
+    color: @white !important
+}
+.CodeMirror,
+.CodeMirror-scroll {
+    background: @background;
+    color: @white
+}
+.CodeMirror-gutters {
+    background: @background
+}
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt,
+.CodeMirror-focused .CodeMirror-activeline-background,
+.inline-widget .CodeMirror-gutter-elt {
+    background: rgba(153, 187, 255, 0.1)
+}
+.CodeMirror-linenumber {
+    color: @gray
+}
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
+    color: @white
+}
+.CodeMirror-cursor {
+    border-left: 1px solid @white !important
+}
+.CodeMirror-selected {
+    background: @white;
+}
+.CodeMirror-focused .CodeMirror-selected {
+    background: rgba(85, 102, 119, 0.5)
+}
+.CodeMirror-matchingbracket {
+    background: @violet;
+    color: @white !important;
+    font-weight: bold
+}
+.CodeMirror-nonmatchingbracket {
+    background: red !important;
+    color: @white !important
+}
+.CodeMirror-matchingtag {
+    background: rgba(85, 102, 119, 0.7)
+}
+.CodeMirror-overwrite .CodeMirror-cursor {
+    border-left: none !important;
+    border-bottom: 1px solid @white
+}
+.CodeMirror-searching {
+    background: @white;
+    color: @gray !important
+}
+.searching-current-match {
+    background: @yellow;
+    color: @gray !important
+}
+.CodeMirror-foldgutter-open:after {
+    content: "▾";
+    font-size: 1.25rem;
+    color: @gray
+}
+.CodeMirror-foldgutter-folded:after {
+    content: "▸";
+    font-size: 1.25em;
+    color: @gray !important;
+}
+.CodeMirror-foldgutter-folded {
+    padding-top: 0px
+}
+.CodeMirror-foldgutter-open {
+    padding-top: 0px
+}
+.CodeMirror-foldmarker {
+    display: inline-block;
+    border-radius: .75em;
+    padding: 0 2px;
+    border: 0;
+    font-size: .625em;
+    color: @white !important;
+    background: 0 0
+}
+.CodeMirror-foldmarker:after {
+    content: '\2022\2022\2022';
+    position: relative;
+    top: 1px
+}
+.ico-cssColorPreview {
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+    margin-bottom: 2px
+}
+.brackets-git-gutter-added,
+.brackets-git-gutter-modified,
+.brackets-git-gutter-removed {
+    width: 3px
+}
