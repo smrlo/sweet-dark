@@ -1,5 +1,5 @@
 {
-  "name": "st3f4no.sweet-dark",
+  "name": "sweet-dark",
   "title": "Sweet Dark",
   "description": "A beautiful dark theme for Brackets, which makes your code nice and highly readable.",
   "homepage": "https://github.com/st3f4no/sweet-dark",
@@ -7,7 +7,7 @@
   "author": "st3f4no (https://github.com/st3f4no)",
   "license": "MIT",
   "theme": {
-    "file": "main.less",
+    "file": "theme.less",
     "dark": true,
     "addModeClass": true
   },
