@@ -3,7 +3,7 @@
   "title": "Sweet Dark",
   "description": "A beautiful dark theme for Brackets, which makes your code nice and highly readable.",
   "homepage": "https://github.com/st3f4no/sweet-dark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "st3f4no (https://github.com/st3f4no)",
   "license": "MIT",
   "theme": {
@@ -11,5 +11,6 @@
     "dark": true,
     "addModeClass": true
   },
-  "keywords": ["theme","dark","html","css","js","javascript"]
+  "keywords": ["theme","dark","html","css","js","javascript"],
+  "screenshot": "screenshots/html.png"
 }

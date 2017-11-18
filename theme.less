@@ -5,12 +5,16 @@
  */
 
 @background: #222233;
-@white: #ffffff;
+@background-1: rgba(153, 187, 255, 0.1);
+@background-2: rgba(85, 102, 119, 0.5);
+@background-3: rgba(85, 102, 119, 0.7);
+@white: #FFFFFF;
 @gray: #556677;
 @green: #68D9B1;
 @orange: #FFA8A8;
 @violet: #AEA8D3;
 @yellow: #FCFFA8;
+@red: #FF0000;
 
 .cm-bracket,
 .cm-keyword,
@@ -50,7 +54,7 @@
     color: @yellow
 }
 .cm-error {
-    background: red;
+    background: @red;
     color: @white !important
 }
 .CodeMirror,
@@ -64,7 +68,7 @@
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt,
 .CodeMirror-focused .CodeMirror-activeline-background,
 .inline-widget .CodeMirror-gutter-elt {
-    background: rgba(153, 187, 255, 0.1)
+    background: @background-1
 }
 .CodeMirror-linenumber {
     color: @gray
@@ -76,10 +80,10 @@
     border-left: 1px solid @white !important
 }
 .CodeMirror-selected {
-    background: @white;
+    background: @white
 }
 .CodeMirror-focused .CodeMirror-selected {
-    background: rgba(85, 102, 119, 0.5)
+    background: @background-2
 }
 .CodeMirror-matchingbracket {
     background: @violet;
@@ -87,11 +91,11 @@
     font-weight: bold
 }
 .CodeMirror-nonmatchingbracket {
-    background: red !important;
+    background: @red !important;
     color: @white !important
 }
 .CodeMirror-matchingtag {
-    background: rgba(85, 102, 119, 0.7)
+    background: @background-3
 }
 .CodeMirror-overwrite .CodeMirror-cursor {
     border-left: none !important;
