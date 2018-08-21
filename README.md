@@ -10,7 +10,7 @@ Gray | ![#556677](https://placehold.it/15/556677/000000?text=+) `#556677`
 Green | ![#68D9B1](https://placehold.it/15/68d9b1/000000?text=+) `#68d9b1`
 Orange | ![#FFA8A8](https://placehold.it/15/ffa8a8/000000?text=+) `#ffa8a8`
 Violet | ![#AEA8D3](https://placehold.it/15/aea8d3/000000?text=+) `#aea8d3`
-Yellow | ![#FFFF00](https://placehold.it/15/ffff00/000000?text=+) `#ffff00`
+Yellow | ![#FCFFA8](https://placehold.it/15/fcffa8/000000?text=+) `#fcffa8`
 
 ## HTML
 ![Sweet Dark HTML Screenshot](https://github.com/st3f4no/sweet-dark/blob/master/screenshots/html.png)
