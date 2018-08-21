@@ -11,6 +11,6 @@
     "dark": true,
     "addModeClass": true
   },
-  "keywords": ["theme","dark","html","css","js","javascript"],
+  "keywords": ["theme","dark","html","css","js","javascript","readability"],
   "screenshot": "screenshots/html.png"
 }
