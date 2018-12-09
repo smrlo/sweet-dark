@@ -13,11 +13,11 @@ Violet | ![#AEA8D3](https://placehold.it/15/aea8d3/000000?text=+) `#aea8d3`
 Yellow | ![#FCFFA8](https://placehold.it/15/fcffa8/000000?text=+) `#fcffa8`
 
 ## HTML
-![Sweet Dark HTML Screenshot](https://github.com/st3f4no/sweet-dark/blob/master/screenshots/html.png)
+![Sweet Dark HTML Screenshot](https://github.com/smrlo/sweet-dark/blob/master/screenshots/html.png)
 ## CSS
-![Sweet Dark CSS Screenshot](https://github.com/st3f4no/sweet-dark/blob/master/screenshots/css.png)
+![Sweet Dark CSS Screenshot](https://github.com/smrlo/sweet-dark/blob/master/screenshots/css.png)
 ## Javascript
-![Sweet Dark Javascript Screenshot](https://github.com/st3f4no/sweet-dark/blob/master/screenshots/js.png)
+![Sweet Dark Javascript Screenshot](https://github.com/smrlo/sweet-dark/blob/master/screenshots/js.png)
 
 ## Installation
 * Open Brackets
@@ -27,4 +27,4 @@ Yellow | ![#FCFFA8](https://placehold.it/15/fcffa8/000000?text=+) `#fcffa8`
 * Click "Install"
 
 ## License
-Released under the [MIT License](https://github.com/st3f4no/sweet-dark/blob/master/LICENSE).
+Released under the [MIT License](https://github.com/smrlo/sweet-dark/blob/master/LICENSE).

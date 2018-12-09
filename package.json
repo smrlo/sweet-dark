@@ -2,9 +2,9 @@
   "name": "sweet-dark",
   "title": "Sweet Dark",
   "description": "A beautiful dark theme for Brackets, which makes your code nice and highly readable.",
-  "homepage": "https://github.com/st3f4no/sweet-dark",
-  "version": "1.0.2",
-  "author": "st3f4no (https://github.com/st3f4no)",
+  "homepage": "https://github.com/smrlo/sweet-dark",
+  "version": "1.0.3",
+  "author": "SM (https://github.com/smrlo)",
   "license": "MIT",
   "theme": {
     "file": "theme.less",
