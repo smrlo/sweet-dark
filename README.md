@@ -1,6 +1,9 @@
 # Sweet Dark Theme for Brackets
 A beautiful dark theme for Brackets, which makes your code nice and highly readable.
 
+## Info
+![version](https://flat.badges.ml/v/sweet-dark)  ![downloads](https://flat.badges.ml/dt/sweet-dark)
+
 ## Colors
 Palette | Hex Code
 --- | ---
